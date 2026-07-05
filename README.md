@@ -4,7 +4,7 @@ My personal portfolio website. Built as a single self-contained HTML file.
 
 ## Live Site
 
-[Coming soon — deploy link goes here]
+[Coming soon]
 
 ## About
 
@@ -15,7 +15,7 @@ A dark-themed split-screen portfolio inspired by someone i look up to.
 - Split-screen layout (fixed left, scrollable right)
 - Resume section with skills, experience, education and achievements
 - Projects section with 6 projects in a 2-column grid
-- Downloadable CV (embedded directly in the file)
+- Downloadable CV
 - Fully responsive — mobile layout with hamburger menu
 - Single HTML file — no build tools, no dependencies, no framework
 
